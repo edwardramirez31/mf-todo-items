@@ -1,3 +1,10 @@
+# 1.0.0 (2022-09-01)
+
+
+### Features
+
+* add logic to component list item ([4f57921](https://github.com/edwardramirez31/mf-todo-items/commit/4f57921141251c93f5805df8d1fc044af643261b))
+
 # [1.2.0](https://github.com/edwardramirez31/micro-frontend-template/compare/v1.1.2...v1.2.0) (2022-08-31)
 
 
