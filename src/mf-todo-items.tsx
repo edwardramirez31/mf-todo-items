@@ -23,7 +23,6 @@ const lifecycles = singleSpaReact({
     // Customize the root error boundary for your microfrontend here.
     return <div>Something went wrong</div>;
   },
-  domElementGetter,
 });
 
 export const { bootstrap, mount, unmount } = lifecycles;

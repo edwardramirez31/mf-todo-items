@@ -11,7 +11,7 @@
     "noUnusedParameters": true,
     "forceConsistentCasingInFileNames": true
   },
-  "files": ["src/project-micro-frontend-name.tsx"],
+  "files": ["src/mf-todo-items.tsx"],
   "include": ["src/**/*"],
   "exclude": ["node_modules"]
 }
