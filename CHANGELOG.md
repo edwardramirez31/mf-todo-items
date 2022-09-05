@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/edwardramirez31/mf-todo-items/compare/v1.0.0...v1.1.0) (2022-09-05)
+
+
+### Features
+
+* receive new tasks from form micro frontend using subscription ([a8dd512](https://github.com/edwardramirez31/mf-todo-items/commit/a8dd512d620508705d11444dd36e7028b7d08796))
+
 # 1.0.0 (2022-09-01)
 
 

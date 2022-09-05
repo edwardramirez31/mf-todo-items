@@ -92,5 +92,5 @@
     "yup": "^0.32.9"
   },
   "types": "dist/mf-todo-items.d.ts",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
