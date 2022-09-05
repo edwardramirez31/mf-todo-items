@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 
+import { taskSubscription } from '@mf-app/utility';
 import { List } from '@mui/material';
 
 import DjangoTodo from './api/djangoTodo';
@@ -38,6 +39,14 @@ const Tasks = (): JSX.Element => {
       })();
     }
   }, [tasks.length]);
+
+  useEffect(() => {
+    taskSubscription.subscribe((newTask) => {
+      setTasks((prevState) => {
+        return [...prevState, newTask];
+      });
+    });
+  }, []);
 
   return (
     <List>

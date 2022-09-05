@@ -10,6 +10,8 @@ module.exports = (webpackConfigEnv, argv) => {
   });
 
   return merge(defaultConfig, {
+    externals: ['@mf-app/utility'],
+
     // modify the webpack config however you'd like to by adding to this object
   });
 };

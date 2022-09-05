@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 import React from 'react';
 
 import ReactDOM from 'react-dom';
@@ -19,7 +20,10 @@ const lifecycles = singleSpaReact({
   React,
   ReactDOM,
   rootComponent: Root,
-  errorBoundary(_err, _info, _props) {
+  errorBoundary(err, info, props) {
+    console.log(err);
+    console.log(info);
+    console.log(props);
     // Customize the root error boundary for your microfrontend here.
     return <div>Something went wrong</div>;
   },
