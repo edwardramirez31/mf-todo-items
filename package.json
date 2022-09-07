@@ -45,7 +45,7 @@
     "cross-env": "^7.0.3",
     "eslint": "^7.32.0",
     "eslint-config-airbnb": "^19.0.4",
-    "eslint-config-airbnb-typescript": "^16.1.0",
+    "eslint-config-airbnb-typescript": "^17.0.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-config-ts-react-important-stuff": "^3.0.0",
     "eslint-import-resolver-typescript": "^2.5.0",
