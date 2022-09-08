@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/edwardramirez31/mf-todo-items/compare/v1.2.0...v1.2.1) (2022-09-08)
+
+
+### Bug Fixes
+
+* invalidate build files from CloudFront cache ([a88eebd](https://github.com/edwardramirez31/mf-todo-items/commit/a88eebd51bd13c54a333b1b568c6661da7e16dbe))
+
 # [1.2.0](https://github.com/edwardramirez31/mf-todo-items/compare/v1.1.0...v1.2.0) (2022-09-05)
 
 
