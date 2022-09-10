@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/edwardramirez31/mf-todo-items/compare/v1.2.1...v1.2.2) (2022-09-10)
+
+
+### Bug Fixes
+
+* **deps:** bump actions/checkout from 2 to 3 ([304f92a](https://github.com/edwardramirez31/mf-todo-items/commit/304f92ace0982ac3822ecfead9689f62a0c27961))
+
 ## [1.2.1](https://github.com/edwardramirez31/mf-todo-items/compare/v1.2.0...v1.2.1) (2022-09-08)
 
 
