@@ -78,7 +78,7 @@
     "@emotion/styled": "^11.10.4",
     "@mf-app/utility": "^1.2.1",
     "@mui/icons-material": "^5.10.3",
-    "@mui/material": "^5.10.3",
+    "@mui/material": "^5.10.5",
     "@reduxjs/toolkit": "^1.6.1",
     "axios": "^0.21.4",
     "formik": "^2.2.9",
