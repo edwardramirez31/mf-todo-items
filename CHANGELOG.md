@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/edwardramirez31/mf-todo-items/compare/v1.2.2...v1.2.3) (2022-09-14)
+
+
+### Bug Fixes
+
+* **deps:** bump @mui/material from 5.10.3 to 5.10.5 ([ff2365b](https://github.com/edwardramirez31/mf-todo-items/commit/ff2365b5ed8cd107d89ec5f4ab55fa2b3ece92b0))
+
 ## [1.2.2](https://github.com/edwardramirez31/mf-todo-items/compare/v1.2.1...v1.2.2) (2022-09-10)
 
 
